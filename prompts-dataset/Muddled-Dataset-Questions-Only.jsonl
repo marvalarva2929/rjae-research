@@ -1,0 +1,37 @@
+{"question1": "Can you add a schedule for me at 2pm on September 12th called 'Meeting with John' at the office?"}
+{"question2": "Can you remind me 10 minutes before the schedule?"}
+
+{"question1": "Can you help me find some information about my symptoms?"}
+{"question2": "I'm feeling nauseous."}
+
+{"question1": "What operating systems is this software compatible with?"}
+{"question2": "What are the key features of this software?"}
+
+{"question": "Can you show me my history for today?"}
+{"question": "Can you add 'Meeting with clients' on December 15, 2023, at 2:00 PM at ABC company in AddAgenda API?"}
+{"question": "Can you set a reminder for me to call my mom tomorrow at 10 AM?"}
+{"question": "Can you tell me what's the current date?"}
+{"question": "Can you help me delete my account?"}
+{"Question":"Instruction: In this task, you are given a question and an answer. Answer \"Yes\" if the given answer correctly answers the question, otherwise answer \"No\". ### Input: how many presidents of the us, Answer: The president is indirectly elected to a four-year term by an Electoral College (or by the House of Representatives should the Electoral College fail to award an absolute majority of votes to any person)."}
+{"Question":"Where would a greenhouse best be used?: A: Bahamas B: Nebraska C: Florida D: Mexicoa greenhouse is used to protect plants by keeping them warm?"}
+{"question": "Can you help me add a reminder for my meeting at 3pm on January 5, 2023, with the topic 'sales report'?"}
+{"Question":"Ten adults went to a ball game with eleven children. Adult tickets are $8 each and the total bill was $124. How many dollars is one child's ticket?"}
+{"question": "Can you help me book a hotel room for two adults and one child?"}
+{"question": "Can you help me record my recent health data, please?"}
+{"Question":"Determine whether the two given sentences clearly agree with each other (entailment), disagree with each other (contradiction), or if this cannot be determined (neutral). ### Input: Two female martial artists demonstrate a kick for an audience. <sep> Two female artists are demonstrating punches for the audience."}
+{"question": "Can you help me book an appointment with Dr. Smith?"}
+{"question": "Can you modify my appointment with doctor Smith on October 10th, 2023, to doctor Johnson on October 15th, 2023?"}
+{"question": "Can you help me find the answer to a question in a specific document?"}
+{"question": "Can you help me book a meeting on March 15th at 3pm for the topic 'Project Update' with John and Jane?"}
+{"question": "Can you add a schedule item for March 20th, 2023, with the description 'Dinner with friends' at the Cheesecake Factory?"}
+{"Question":"The sum of two consecutive numbers is 452. The greatest among these three number is: Answer Choices: (A) 226 (B) 228 (C) 229 (D) 230 (E) 200?"}
+{"question": "Can you help me add a meeting to my agenda for July 15th at 3pm in the conference room?"}
+{"question": "Can you help me open a bank account?"}
+{"question": "Can you help me modify a reminder with the description 'Submit report' at 9 am on March 17th, 2023?"}
+{"question": "Hi, can you help me add a new schedule for my meeting tomorrow at 2pm? Today is 2021-09-27."}
+{"Question":"What is the value of the expression $\frac {x^2-x-6}{x-3}$ for $x=2?"}
+{"question": "Can you tell me today's date?"}
+{"question": "Can you help me add a schedule item for tomorrow at 9am with the title 'Meeting with John' at the coffee shop on Main Street?"}
+{"question": "Can you tell me what happened on this day in history?"}
+{"question": "I forgot my password. Can you help me reset it?"}
+{"Question":"What is the value of the expression $\frac {x^2-x-6}{x-3}$ for $x=2?"}
