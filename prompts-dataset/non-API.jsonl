@@ -1,0 +1,21 @@
+//https://huggingface.co/datasets/upaya07/NeurIPS-LLM-data?row=6
+//https://huggingface.co/datasets/cognitivecomputations/Dolphin-2.9
+
+//NEURIPS & MCQ
+{"Question":"What is the value of the expression $\frac {x^2-x-6}{x-3}$ for $x=2"}
+{"Answer":"Plugging in $x = 2$, we get $-4$ for the numerator, and $-1$ for the denominator, thus, $\boxed{4}$ is the answer. The answer is 4"}
+
+{"Question":"Where would a greenhouse best be used?: A: Bahamas B: Nebraska C: Florida D: Mexicoa greenhouse is used to protect plants by keeping them warm"}
+{"Answer": "The answer is B: Nebraska"}
+
+{"Question": "Instruction: In this task, you are given a question and an answer. Answer "Yes" if the given answer correctly answers the question, otherwise answer "No". ### Input: how many presidents of the us, Answer: The president is indirectly elected to a four-year term by an Electoral College (or by the House of Representatives should the Electoral College fail to award an absolute majority of votes to any person)."}
+{"Answer":"No"}
+
+{"Input":"Determine whether the two given sentences clearly agree with each other (entailment), disagree with each other (contradiction), or if this cannot be determined (neutral). Answer must be the letters E, C, and N, respectively. ### Input: Two female martial artists demonstrate a kick for an audience. <sep> Two female artists are demonstrating punches for the audience."}
+{"Output": "C"}
+
+{"Input":"Input: The sum of two consecutive numbers is 452. The greatest among these three number is: Answer Choices: (A) 226 (B) 228 (C) 229 (D) 230 (E) 200"}
+{"Output":"Let's think about the multi-choice question. Let the numbers be x, x + 1 Then, x + (x + 1) = 452 2x = 450 x = 225 Greatest number, (x + 1) = 226 The answer is A"}
+
+{"Input":" ten adults went to a ball game with eleven children. adult tickets are $8 each and the total bill was $124. how many dollars is one child's ticket?"}
+{"Output": "Adults = 10 * 8 = $80 Children = 124 - 80 = $44 Child = 44/11 = $4 Each child's ticket is $4. The answer is 4"}
