@@ -1,0 +1,200 @@
+{"question": "Can you explain the functionality and purpose of a particular smart contract on Ethereum?", "answer": "FinanceTool"}
+{"question": "How does Magnetis adjust the portfolio allocation according to market conditions?", "answer": "Magnetis"}
+{"question": "I'm flying from JFK Airport to London Heathrow tomorrow with British Airways, departing at 10:45 am and arriving around 9:00 pm. Give me the forcasted conditions of that flight", "answer": "C3_Glide"}
+{"question": "I'm planning a trip to Japan and I want to buy a traditional Japanese tea set. Can you help me find one?", "answer": "ProductSearch"}
+{"question": "I want to brainstorm creative and innovative ideas that align with the objectives and scope of my new project.", "answer": "ChartTool"}
+{"question": "I'm facing a language barrier while trying to understand the content of this PDF. Can you assist me in comprehending it better?", "answer": "PDF&URLTool"}
+{"question": "I need to find out how a popular shopping website appeared on Black Friday last year. Can you provide a screenshot?", "answer": "WebRewind"}
+{"question": "I want to gather feedback from my customers, which includes collecting their opinions, suggestions, and constructive criticism regarding their overall experience with my products or services in order to enhance customer satisfaction and improve the quality of my offerings.", "answer": "form"}
+{"question": "Hi there! I love playing sudoku. Can you give me a new puzzle to solve?", "answer": "Sudoku"}
+{"question": "I want to enhance my skills in digital marketing design. What design courses do you suggest?", "answer": "search"}
+{"question": "Hi there! I'm excited to start playing this immersive life simulator game! Type /start to begin.", "answer": "Algorithma"}
+{"question": "How can I optimize my website for SEO?", "answer": "SEOTool"}
+{"question": "I need to know the answer of 456 raised to the power of 3.", "answer": "calculator"}
+{"question": "Hey ChatGPT! I'm looking to increase the engagement on my social media posts. Can you suggest any popular keywords to enhance my content optimization?", "answer": "keywordexplorer"}
+{"question": "I would like to sell my innovative and successful startup to potential buyers who are interested in acquiring a rapidly growing business with an impressive customer base, strong financial performance, and valuable intellectual property.", "answer": "ProductSearch"}
+{"question": "I need to brainstorm some ideas for a new project. Can you assist me in visualizing them?", "answer": "ChartTool"}
+{"question": "What is the best time to visit Bali?", "answer": "TripTool"}
+{"question": "How do I book meetings with potential customers?", "answer": "KalendarAI"}
+{"question": "I'm planning to develop a smart contract on Ethereum. Could you review it and provide suggestions for improvement in its design and functionality?", "answer": "FinanceTool"}
+{"question": "Can you please provide me with the precise and up-to-date average daily petrol price in the Australian state of New South Wales?", "answer": "AusPetrolPrices"}
+{"question": "I plan to develop a smart contract on the Ethereum blockchain platform to cater to the specific requests and requirements of the users.", "answer": "FinanceTool"}
+{"question": "Can you recommend a casual eatery for lunch in my area?", "answer": "RestaurantBookingTool"}
+{"question": "Create a meme about social media obsession.", "answer": "MemeTool"}
+{"question": "I require a visually appealing and accurate bar graph that effectively represents the population growth trends throughout prominent cities worldwide.", "answer": "ChartTool"}
+{"question": "The NASA image database consists of a vast collection of images captured by various spacecrafts, telescopes, and satellites. This database includes stunning photographs of celestial bodies, celestial events, galaxies, and other astronomical objects. Moreover, it also contains images of Earth from space, such as satellite imagery of different regions, weather patterns, and natural phenomena like hurricanes, wildfires, and auroras. These images showcase the beauty and complexity of the universe and our planet.", "answer": "stellarexplorer"}
+{"question": "To make your sprite jump in Scratch, you can use the \"glide\" or \"change y by\" block to simulate the jumping movement.", "answer": "Creaticode_Extension_of_MIT_Scratch"}
+{"question": "Can you recall the medications I'm supposed to take for my condition?", "answer": "DataRetrievalTool"}
+{"question": "What are some effective strategies for virtual job searching during the pandemic?", "answer": "JobTool"}
+{"question": "I'm looking for a challenging full-body workout that incorporates both strength training and cardio exercises to improve overall fitness and muscle tone.", "answer": "Planfit"}
+{"question": "I'm struggling to word my product review; could you help me rewrite it, so it carries more impact?", "answer": "PolishTool"}
+{"question": "I have a lengthy legal document, can you give me a concise summary?", "answer": "PDF&URLTool"}
+{"question": "Hi there! Can you help me find the best prices for flights from New York to London? ", "answer": "TripTool"}
+{"question": "Do you have any car rental options in Los Angeles?", "answer": "TripAdviceTool"}
+{"question": "Can you summarize the latest TED Talk about climate change? I found this amazing video that I want to know more about. [Link to the TED Talk]", "answer": "SummarizeAnything_pr"}
+{"question": "Can you help me find animal transporters who are experienced with handling exotic animals?", "answer": "haulingbuddies"}
+{"question": "What's the process of domain registration? Where can I do it and what details do I need to know?", "answer": "URLTool"}
+{"question": "I'm curious about the PPC ads my competitor is using. Can you retrieve their ad history for me?", "answer": "competitorppcads"}
+{"question": "I need some specific research prompts focused on various renewable energy sources such as solar power, wind energy, hydroelectricity, geothermal energy, and biomass, to explore their environmental impact, technological advancements, cost effectiveness, and potential for widespread adoption.", "answer": "ResearchHelper"}
+{"question": "Are there any entry-level marketing positions in Chicago for recent college graduates or individuals with limited professional experience seeking employment opportunities specifically within the marketing field?", "answer": "JobTool"}
+{"question": "Why is it so complicated to share my cart with others? This app is a disaster!", "answer": "ShoppingAssistant"}
+{"question": "Can you give me the latest live standings, results, and keyplays of the Premier League matches?", "answer": "keyplays_football"}
+{"question": "Can you generate a visually appealing, high-resolution promotional banner in landscape orientation, featuring vibrant colors and eye-catching graphics, for my upcoming weekend sale event, which will be held at our store location?", "answer": "placid"}
+{"question": "Could you please provide me with a list of Sake brands that specifically have a subtle and refreshing flavor, preferably ones that complement various types of cuisine?", "answer": "sakenowa"}
+{"question": "Hi! I'm planning a picnic in the park this afternoon, can you tell me the rain probability and atmospheric pressure?", "answer": "WeatherTool"}
+{"question": "Can you analyze the eligibility criteria for the clinical trial with the NCT05859269 identifier?", "answer": "CTCP"}
+{"question": "Can you suggest the best travel route and accommodations for a honeymoon trip to Greece?", "answer": "TripTool"}
+{"question": "I need assistance in finding job listings in the UK. Can you help me with that?", "answer": "JobTool"}
+{"question": "I'm planning to visit my friend in Jurong East. Can you tell me if there are any empty car park lots at the HDB car park there?", "answer": "hdbcarpark"}
+{"question": "Are there any remote job opportunities in the marketing field?", "answer": "JobTool"}
+{"question": "Are there any podcasts available that specifically focus on exploring various aspects of religion and spirituality, delving into topics such as faith, belief systems, traditions, practices, and the intersection of spirituality with everyday life experiences?", "answer": "PodcastTool"}
+{"question": "Find the flight confirmation email for my upcoming trip.", "answer": "DataRetrievalTool"}
+{"question": "Can you provide me with a comprehensive overview of the current trending news topics in the United States, highlighting the most significant events, breaking news, and popular discussions happening nationwide?", "answer": "NewsTool"}
+{"question": "To search for a specific product on GoFynd, users can use the search bar located at the top of the website or app interface. By typing in keywords related to the desired product, such as brand names, product names, or specific attributes, users can easily find and browse through the available options.", "answer": "ProductSearch"}
+{"question": "Hey there! Can you provide me with a roundup of today's top NFT news headlines with clickable links?", "answer": "FinanceTool"}
+{"question": "I want to book a tour to explore the Grand Canyon.", "answer": "TripTool"}
+{"question": "Could you please convert this chat session into a PDF so that I can share it with my team?", "answer": "PDF_Exporter"}
+{"question": "Can you remind me where I saved that important document on my desktop?", "answer": "DataRetrievalTool"}
+{"question": "Can you compute the trade-offs I've made in my stock portfolio over the past year?", "answer": "decision_journal"}
+{"question": "Could you analyze my chosen keyword and give me valuable SEO insights to improve my strategy?", "answer": "bramework"}
+{"question": "I need something to help me develop new habits and stay consistent.", "answer": "mini_habits"}
+{"question": "Hello! I'm exploring the Web3 industry and I need assistance in discovering job positions and talented professionals. Can you provide me with relevant information?", "answer": "JobTool"}
+{"question": "I’m working on a children’s book about the importance of eating healthy. Can you create an illustrated story for it?", "answer": "storybird_stories"}
+{"question": "Could you please access PubMed and retrieve the most recent paper on cancer treatment for me?", "answer": "ResearchFinder"}
+{"question": "I'm interested in watching some animated movies. Can you recommend any popular ones?", "answer": "MediaTool"}
+{"question": "I made a decision to invest a large sum of money into the stock market. How can I track its performance?", "answer": "decision_journal"}
+{"question": "Can you give me the current rank of Polkadot among all cryptocurrencies, including the specific rank number, such as 5th or 10th?", "answer": "FinanceTool"}
+{"question": "What are the top rock songs in Australia right now according to the official music charts and streaming platforms that compile data from various sources such as radio airplay, digital downloads, and music streaming services?", "answer": "MusicTool"}
+{"question": "Generate a bubble chart illustrating the market share of different smartphone brands, such as Apple, Samsung, Huawei, and Xiaomi, in various regions such as North America, Europe, Asia, and Latin America, with each brand represented by a bubble size relative to its market share percentage.", "answer": "ChartTool"}
+{"question": "What are the stats on this Magic card?", "answer": "magi_codex"}
+{"question": "Can you find me the customer reviews for the new iPhone model specifically on the performance, camera quality, battery life, and overall user experience?", "answer": "web_scraper"}
+{"question": "What can I do to optimize my trip?", "answer": "TripAdviceTool"}
+{"question": "Are you kidding me?! I want to find an apartment in Montreal with 2 bedrooms and a maximum monthly rent of $1500.", "answer": "HouseRentingTool"}
+{"question": "Can you tell me the upcoming schedule for the Chicago Bulls?", "answer": "ndricks_sports_api"}
+{"question": "I want to find a podcast about society and how it has changed over the years.", "answer": "PodcastTool"}
+{"question": "Hello Chatbot! I discovered this incredible book on quantum mechanics that I think would be an interesting read. Could you give me a summary of the book?", "answer": "PDF&URLTool"}
+{"question": "Is there a quick and easy online tool or application that can convert my cooking recipes into audio files, allowing me to conveniently listen to them step-by-step while I am busy cooking in the kitchen?", "answer": "speechki_tts_plugin"}
+{"question": "I want to generate an image that vividly resembles a picturesque and idyllic countryside landscape, characterized by gentle, lush green rolling hills gracefully blending into the horizon, and featuring a serene and crystal-clear lake reflecting the scenic beauty of its surroundings.", "answer": "photorealistic"}
+{"question": "Could you please assist me by providing a detailed calculation of my monthly mortgage payments based on the specified loan amount, interest rate, and loan term?", "answer": "CreditYelp"}
+{"question": "What is the average daily petrol price in New South Wales?", "answer": "AusPetrolPrices"}
+{"question": "I need a gift for a friend who loves gardening. What do you recommend?", "answer": "GiftTool"}
+{"question": "\"Can you provide a review analysis for the Xbox Series X? I'd like to know its advantages and disadvantages.\"", "answer": "Review"}
+{"question": "I'm planning a trip to Bali. Can you help me find the best hotels and tours there?", "answer": "TripTool"}
+{"question": "I'm feeling extremely nostalgic today and would love for you to curate a fantastic playlist exclusively comprised of popular 90s pop hits.", "answer": "MusicTool"}
+{"question": "What are the current returns on my portfolio with Magnetis?", "answer": "Magnetis"}
+{"question": "What products are related to the latest Google Trends?", "answer": "Now"}
+{"question": "What is the best Sake brand available?", "answer": "sakenowa"}
+{"question": "Could you help me find travel nursing jobs in Seattle and Portland? I am specifically looking for jobs that offer a pay rate of at least $2,500 per week.", "answer": "JobTool"}
+{"question": "Ugh, I'm so tired of reading the same old books. Can you help me find something new and exciting?", "answer": "BookTool"}
+{"question": "My friend is traveling to New York next month, can you recommend a fun activity for her to do there?", "answer": "GiftTool"}
+{"question": "I'm looking for a reliable laptop from a trusted brand. Any recommendations?", "answer": "ProductSearch"}
+{"question": "Can you please assist me in integrating my Shopify store with both Google Ads and Microsoft Ads? My goal is to automate my advertising efforts and improve efficiency.", "answer": "Google_Ads_Shopping_Microsoft_Ads_pay_per_click"}
+{"question": "I need high-quality visuals such as images, infographics, and videos to make my blog post about cooking more engaging and visually appealing to readers.", "answer": "ImageSearch"}
+{"question": "I want to ask a question about this YouTube video, but I don't know where to start. Can you help me understand it better and guide me through formulating the question?", "answer": "VideoSummarizeTool"}
+{"question": "Could you please help me find a reputable and authentic brick-and-mortar store in Tokyo that specializes in selling a wide selection of traditional Japanese pottery, including various styles like Arita, Kutani, and Hagi ceramics, showcasing the rich cultural heritage of the country?", "answer": "ProductSearch"}
+{"question": "Can you give me the latest research paper on [topic]?", "answer": "ResearchFinder"}
+{"question": "I'm curious about the latest trailer for the upcoming Marvel movie. Can you search for it and show me?\" ", "answer": "video_highlight"}
+{"question": "I'm currently preparing for a crucial exam, and in order to efficiently study, I urgently require the ability to search through numerous PDF textbooks simultaneously.", "answer": "PDF&URLTool"}
+{"question": "Hey Chatbot, can you provide me with a report of my domain visibility for the past month?", "answer": "SEOTool"}
+{"question": "Can I play a game of checkers with a friend using the virtual platform?", "answer": "Checkers"}
+{"question": "Please fetch and display the posts with the highest user ratings from my self-hosted WordPress site.", "answer": "wpinteract"}
+{"question": "Could you assist me in finding reputable scientific publications on the efficacy of mRNA vaccines?", "answer": "ResearchFinder"}
+{"question": "I need a detailed Reflect note that accurately captures all the key points and essential discussions from our recent product development meeting.", "answer": "reflect_notes"}
+{"question": "I'm so frustrated with this GitHub repository. Could you please inspect it for me? ", "answer": "RepoTool"}
+{"question": "I'm having difficulty understanding how information is transmitted and transferred through the intricate pathways and connections of a highly intricate and advanced network system.", "answer": "ChartTool"}
+{"question": "Can you suggest a budget-friendly accommodation option in London?", "answer": "TripAdviceTool"}
+{"question": "Can you help me find experts for a robotics project? I'm specifically looking for freelance engineers.", "answer": "TalentOrg"}
+{"question": "What are the key quantitative factors one should consider before making investment decisions?", "answer": "FinanceTool"}
+{"question": "How can I effectively and efficiently gather feedback from a diverse range of users, including their preferences, concerns, and suggestions, in order to make iterative improvements on my product and enhance its overall quality and user experience?", "answer": "kraftful"}
+{"question": "I'm hosting a birthday party next month, specifically on July 15th, and need to find a local bakery that specializes in creating custom cakes for special occasions. The cake I'm envisioning for the party is going to be a three-tiered vanilla cake with buttercream frosting, adorned with intricate floral decorations including roses, lilies, and daisies, as the birthday girl loves flowers. It would be great if the bakery could incorporate the party's theme, which is unicorns and rainbows, into the cake design as well. The cake should ideally serve around 30 to 35 guests, and I would prefer if the bakery provides delivery services, as I will be occupied with other party preparations. It would be wonderful if the bakery offers a wide range of cake flavors and fillings to choose from, allowing me to customize the taste according to the birthday girl's preferences. Furthermore, I'm hoping to find a bakery that prioritizes using high-quality ingredients, has a stellar reputation for their delicious and beautifully crafted cakes, and is able to meet my budget, which is around $150.", "answer": "local"}
+{"question": "I'm looking for a recipe for chocolate chip cookies. Can you help me find one?", "answer": "internetSearch"}
+{"question": "Can you find the availability of this domain?", "answer": "URLTool"}
+{"question": "I'm not sure if the quality of the scanned document, such as the resolution, clarity, and legibility, is good enough for accurate text extraction. Therefore, I would like to know if ChatOCR is still capable of accurately extracting the text despite the uncertainty in document quality.", "answer": "ChatOCR"}
+{"question": "I need to hire a freelance engineering talent who is specifically experienced in electrical engineering, with expertise in designing electrical systems, troubleshooting electrical issues, and working with electrical components and instruments.", "answer": "TalentOrg"}
+{"question": "Could you extract data from this specific PDF file, which is attached to this email, and provide me with relevant details such as statistics, figures, and any other significant information that can be derived from the document?", "answer": "PDF&URLTool"}
+{"question": "Hey there! I'm looking for ways to improve the visibility of my travel blog. Can you assist me in optimizing my blog posts and suggesting relevant keywords?\" ", "answer": "SEOTool"}
+{"question": "How can I optimize my live chat sessions to generate more revenue from potential customers?", "answer": "KalendarAI"}
+{"question": "Is it possible for you to check if there are any empty parking spaces at the car park near Block 101 Jurong West Avenue 3?", "answer": "hdbcarpark"}
+{"question": "Hi! I need to ensure that my homepage is optimized for search engines. Can you perform an on-page SEO analysis for www.example.com using the keyword \"home decor\"?", "answer": "SEOTool"}
+{"question": "How can I reach out to potential customers and book meetings with them?", "answer": "KalendarAI"}
+{"question": "I'm searching for high-resolution images of landscapes to use as desktop wallpapers or to create physical prints for home decor.", "answer": "total_query_meta_search_engine"}
+{"question": "This app doesn't have any of my favorite songs, it's useless! ", "answer": "MusicTool"}
+{"question": "I heard about a climate change-focused Substack. Can you find a summary of their recent issues?", "answer": "Substack_IQ"}
+{"question": "This case sets a dangerous precedent. DEF Corp. v. GHI Inc., 456 F.3d 789, 804 (2d Cir. 2010)", "answer": "LawTool"}
+{"question": "I'm looking for a high-quality blender that meets my blending needs. Please recommend the top-rated blenders on Amazon and provide a summary of their reviews to help me make a choice.", "answer": "Review"}
+{"question": "Can you provide a detailed weather forecast, including temperature, precipitation, wind speed, and humidity, for Los Angeles on Friday?", "answer": "WeatherTool"}
+{"question": "I'm looking for a reputable platform with online classes that offer a wide range of subjects and flexible schedules for users who want to learn from the comfort of their homes.", "answer": "CourseTool"}
+{"question": "I'm struggling to fully understand the concept of existentialism. Can you explain in a simple yet comprehensive manner?", "answer": "word_sneak"}
+{"question": "My website is not performing well in search engine rankings. Can you analyze its SEO metrics for me?", "answer": "website_performance_insights"}
+{"question": "Could you kindly create a humorous and relatable internet meme that addresses the numerous challenges and difficulties typically faced by students during their educational journey?", "answer": "MemeTool"}
+{"question": "I need to find the specific page in this PDF where it describes the process of troubleshooting a computer network issue. Can you help me with that?", "answer": "PDF&URLTool"}
+{"question": "Are there picture books suitable for children?", "answer": "BookTool"}
+{"question": "Is there any way to identify the keywords my competitors are ranking for?", "answer": "SEOTool"}
+{"question": "What Hadith can I find on the topic of patience?", "answer": "hadith"}
+{"question": "Can you please suggest some affordable online courses in graphic design that are suitable for beginners and cover a wide range of topics such as Photoshop, Illustrator, and logo design?", "answer": "metaphor_search_api"}
+{"question": "Can I see a history of stock trades made by Senator John Doe in the past year?", "answer": "QuiverQuantitative"}
+{"question": "and I would like to know if you have any recommendations for a stylish outfit that would be appropriate for the occasion.", "answer": "AbleStyle"}
+{"question": "Where can I find the best Sake brands? I'm tired of searching on my own.", "answer": "sakenowa"}
+{"question": "Could you please provide me with detailed information about the history, performance, and current standings of the teams participating in the La Liga?", "answer": "keyplays_football"}
+{"question": "Can you search for any art pieces related to Asian culture from The Metropolitan Museum of Art?", "answer": "ArtCollection"}
+{"question": "I want to read the speeches given by Members of Parliament on the topic of immigration.", "answer": "uk_politics"}
+{"question": "Can you, as an expert in gift selection, help me find a unique and thoughtful gift that would be perfect for my dear friend's upcoming birthday celebration?", "answer": "GiftTool"}
+{"question": "I am looking for new potential clients. Can you list the upcoming startups in the AI industry in New York City?", "answer": "clearbit_integration"}
+{"question": "My 4-year-old refuses to sit still and learn. How can I make learning fun for her? ", "answer": "ABCmouse"}
+{"question": "I need to find a reliable vacuum cleaner for my home. Which brands should I consider?", "answer": "ProductSearch"}
+{"question": "Could you please provide me with a comprehensive list of action-adventure games that are currently available on PlayStation?", "answer": "GameTool"}
+{"question": "I need detailed and comprehensive assistance in carefully documenting and meticulously analyzing all the financial decisions I make while effectively managing my personal finances.", "answer": "decision_journal"}
+{"question": "What are some fun activities to do during the weekend?", "answer": "word_sneak"}
+{"question": "Show me the results of the matches involving Paris Saint-Germain and Bayern Munich.", "answer": "Agones"}
+{"question": "I would like to include some images in my poetry collection. Can you help me find expressive visuals?", "answer": "ImageSearch"}
+{"question": "I want to see my transaction history on Ethereum, can you help me?", "answer": "FinanceTool"}
+{"question": "Can you find me the plot synopsis of a popular TV series from a fan website?", "answer": "web_scraper"}
+{"question": "Are there any limitations mentioned in the research paper with Arxiv ID 34567?", "answer": "ResearchHelper"}
+{"question": "I'm looking for a specific article related to finance and investments, published on my WordPress website last month, that includes a comprehensive analysis of cryptocurrency trends and predictions for the upcoming year.", "answer": "wpinteract"}
+{"question": "I'm not sure how to start creating a crossword puzzle. Can you guide me through the process?", "answer": "Puzzle_Constructor"}
+{"question": "Prepare to lose at tic tac toe!", "answer": "TicTacToe"}
+{"question": "I'm trying to streamline my task management. Can you suggest how I can integrate Trello with other apps like Asana or Todoist?", "answer": "Zapier"}
+{"question": "Can you recommend any informative and engaging podcasts specifically focused on a variety of sports such as basketball, football, soccer, and other popular athletic activities?", "answer": "PodcastTool"}
+{"question": "Do you have any information about guided tours in Singapore?", "answer": "TripAdviceTool"}
+{"question": "Can you run a command using the Google Cloud Platform to list all the currently running processes on my specific virtual machine?", "answer": "AutoInfra1"}
+{"question": "I need some inspiration for a trendy outfit for a special occasion. Can you help me out?", "answer": "Man_of_Many"}
+{"question": "\"Is there a way to generate a word cloud for the most used programming languages based on my coding scripts?\"", "answer": "WordCloud"}
+{"question": "How windy is it today in Chicago?", "answer": "WeatherTool"}
+{"question": "Can you provide an in-depth analysis of Apple Inc's financial health over the past five years?", "answer": "ph_ai_news_query"}
+{"question": "Hi! I've always dreamt of working in different countries. Can you assist me in finding detailed information about worldwide job positions?", "answer": "JobTool"}
+{"question": "I need someone who can write my blog posts for me. Do you have any recommendations?", "answer": "MyWritingCompanion"}
+{"question": "I want to improve my speaking skills for the IELTS test. Can you recommend some useful exercises or questions?", "answer": "Talkface_IELTS_Prep"}
+{"question": "I'm training for a marathon. Could you create a fitness plan for me?", "answer": "Planfit"}
+{"question": "This podcast is so boring, I need to find specific information without listening to the whole thing. ", "answer": "PodcastTool"}
+{"question": "Hi Chatbot! I've been trying to find a way to discuss my code implementation with other developers. Is there a feature that allows me to collaborate on code repositories and have discussions about the code?", "answer": "RepoTool"}
+{"question": "Who scored the winning goal in overtime during the intense Italy vs. France football match, igniting a jubilant celebration among fans?", "answer": "keyplays_football"}
+{"question": "Is it safe to go outdoors today?", "answer": "airqualityforeast"}
+{"question": "I'm not sure if my plants are getting enough light, how do I determine the right amount of light for each plant?", "answer": "IndoorPlants"}
+{"question": "Hey there! I love learning new languages and I want to practice my French. Can you help me with translations and conversations?", "answer": "MixerBox_Translate_AI_language_tutor"}
+{"question": "Can I get an AI-Coach?", "answer": "Planfit"}
+{"question": "Can you recommend a checkers game plugin that I can use for the latest version of WordPress on my website, which supports multiplayer functionality and comes with customizable themes and difficulty levels?", "answer": "Checkers"}
+{"question": "Hi, I'm planning to visit Lotte World in Jamsil and I would like to know what are the operating hours, ticket prices, and the available attractions and rides in the park. Additionally, I would also like information on any recommended restaurants or cafes nearby for dining options.", "answer": "korea_subway"}
+{"question": "Can you help me find information in a different language?", "answer": "internetSearch"}
+{"question": "Can you recommend a durable and comfortable office chair with ergonomic features, such as adjustable height and lumbar support, specifically designed for long hours of work to prevent any strain or discomfort?", "answer": "ProductSearch"}
+{"question": "I'm curious about the average petrol price in Queensland. Can you give me some details?", "answer": "AusPetrolPrices"}
+{"question": "I just watched this TED Talk, but some parts are not clear. Can you analyze the video and explain the unclear parts to me?", "answer": "VideoSummarizeTool"}
+{"question": "How can I automatically update a Trello board whenever a new row is added in my Google Sheets?", "answer": "Zapier"}
+{"question": "I need an audio recording of this specific poem (title) which has a duration of around 3 minutes and delivers a calm and soothing tone, allowing it to seamlessly integrate into the theme of my podcast focused on storytelling and deep reflections.", "answer": "speechki_tts_plugin"}
+{"question": "Could you tell me how many hours are between Moscow, Russia, and Washington, D.C., USA?", "answer": "timemachine"}
+{"question": "I would like to see a visual representation in the form of a line chart that directly compares the population trends over a certain time period of both Dallas and Phoenix.", "answer": "blockatlas"}
+{"question": "Please help me find job vacancies for customer service representatives in Osaka, Japan.", "answer": "JobTool"}
+{"question": "Hi ChatGPT! I'm really interested to know the latest price of Bitcoin and gauge the market sentiment using the last 20 news media mentions. Can you provide me with that information?", "answer": "FinanceTool"}
+{"question": "I'm planning to start working out at home, but I don't have any equipment. Can you create a workout plan that doesn't require any equipment and provide me with clear instructions and videos for each exercise? ", "answer": "Planfit"}
+{"question": "Can you find me the complete and accurate lyrics of a specific song from a reputable music website with reputable sources and annotations?", "answer": "web_scraper"}
+{"question": "Does Marion Road have any mobile speed cameras or roadworks today?", "answer": "SASpeedCameras"}
+{"question": "Can you please provide me with the latest news and updates related to blockchain technology, including new developments, advancements, and any notable events or applications within the industry?", "answer": "FinanceTool"}
+{"question": "Please display all the blog posts that were posted on my WordPress blog within the previous month.", "answer": "wpinteract"}
+{"question": "Could you please use your resources to retrieve the complete and up-to-date physical address of a company that is currently registered in the United Kingdom?", "answer": "CompanyInfoTool"}
+{"question": "I'm in the market for a new gaming console and I am looking for recommendations and information regarding the latest models, their specifications, pricing, and available games.", "answer": "ProductSearch"}
+{"question": "Can you recommend similar products based on the specific features, style, and price range to the one I'm currently viewing on Uniket, taking into account my preferences and previous purchases?", "answer": "ShoppingAssistant"}
+{"question": "Can you cite news sources or research papers from Penrose Analyst query?", "answer": "ResearchHelper"}
+{"question": "Are there any global companies in the medical field that might be interested in my high-quality, cost-effective surgical instruments?", "answer": "KalendarAI"}
+{"question": "Hey, I'm interested in understanding the valuation multiples of retail companies in different regions. Can you give me a comprehensive analysis?", "answer": "FinanceTool"}
+{"question": "I'm interested in buying a new apartment with amenities like a swimming pool and gym. Can you help me find one?", "answer": "HousePurchasingTool"}
+{"question": "Can you please retrieve and display the complete plot for the volatility index (VIX) term structure, including all relevant details and data points?", "answer": "FinanceTool"}
+{"question": "I need the detailed product specifications including features, technical specifications, dimensions, screen size and resolution, camera quality, battery capacity, storage options, operating system, connectivity options, and any additional information available for the smartphone.", "answer": "web_scraper"}
