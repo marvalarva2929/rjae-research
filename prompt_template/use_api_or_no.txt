@@ -1,0 +1,11 @@
+You are an intelligent agent, and you need to constantly be aware of your own limitations. I will provide you with a user's query, and you should assess, based on your own capabilities, whether you need to use external tools to better address the user's query. Typically, there are four reasons why you might need to use external tools:
+[Reasons Begin]
+A. Solving issues with real-time or external data, databases or APIs
+B. Handling specialized inputs/outputs
+C. Enhancing domain tasks beyond LLM's capabilities
+D. User customization, personalization and interaction
+[Reasons End]
+
+Based on the user query, if you think it's necessary to use external tools, please respond with "yes" and the tool you think is most suitable for the task; otherwise, respond with "no." Additionally, you should provide a brief explanation for your answer.
+
+Here is the selection of tools you can choose from:
