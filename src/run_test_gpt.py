@@ -8,6 +8,7 @@ import time
 
 queriesFile = "C:/Users/LEGION\Downloads/rjae-research-rep/rjae-research/prompts-dataset/final_apiQuestions_andAnswers.jsonl"
 toolDescFile = 'C:/Users/LEGION/Downloads/rjae-research-rep/rjae-research/prompts-dataset/externaltools.jsonl'
+#need to mofidy
 
 def load_tool_descriptions():
     with open(toolDescFile, 'r', encoding='utf-8') as f:
@@ -23,8 +24,8 @@ prompts.append("What's 8 +4?")
 prompts.append("Who 'discovered' the United States?")
 with open(queriesFile, 'r', encoding='utf-8') as f:
     for line in f:
-        line = line.strip()  # Remove leading/trailing whitespace
-        if not line:  # Skip empty lines
+        line = line.strip()  
+        if not line: 
             continue
         try:
             # Parse each line as a JSON object
